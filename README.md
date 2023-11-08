@@ -6,7 +6,7 @@
  </th>
  <tr>
   <td valign="center"><img src="/image/1.png" width="20" height="20"></td>
-  <td valign="center">Visual Basic 6.0, VBA, Delphi 5, Delphi 7, MySQL, SQLite</td>
+  <td valign="center">Visual Basic 6.0, VBA, Delphi 5, Delphi 7, Delphi 10.4.1 (Sydney), SQLite 3, MySql</td>
  </tr>
  <tr>
   <td valign="center"><img src="/image/2.png" width="20" height="20"></td>
