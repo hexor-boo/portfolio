@@ -1,7 +1,9 @@
 # portfolio
 
-<img src="/image/skills.png" width="135" height="20"><br>
 <table>
+ <th>
+  <img src="/image/skills.png" width="135" height="20">
+ </th>
  <tr>
   <td valign="center"><img src="/image/1.png" width="20" height="20"></td>
   <td valign="center">Visual Basic 6.0, VBA, Delphi 5, Delphi 7, MySQL, SQLite</td>
