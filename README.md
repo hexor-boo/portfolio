@@ -1,7 +1,7 @@
 # portfolio
 
 <table>
- <th colspan="2">
+ <th colspan="2" align="left">
   <img src="/image/skills.png" width="135" height="20">
  </th>
  <tr>
