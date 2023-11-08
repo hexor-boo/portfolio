@@ -24,8 +24,7 @@
   <td valign="center"><img src="/image/5.png" width="20" height="20"></td>
   <td valign="center" width="441">Perl (only analayzing and editing foreign code)</td>
  </tr>
-<table>
-
+</table>
 <table>
  <th colspan="2" align="left">
   <img src="/image/services.png" width="181" height="20">
@@ -46,8 +45,7 @@
   <td valign="center"><img src="/image/4.png" width="20" height="20"></td>
   <td valign="center" width="441">Web-sites development in Tilda</td>
  </tr>
-<table>
-
+</table>
 <table>
  <th colspan="2" align="left">
   <img src="/image/other-stuff.png" width="233" height="20">
@@ -68,6 +66,6 @@
   <td valign="center"><img src="/image/4.png" width="20" height="20"></td>
   <td valign="center" width="441">Russian speech audio transcribation (very expensive)</td>
  </tr>
-<table>
-
+</table>
+<br>
 <a href="https://yookassa.ru" target="_blank"><img src="image/tea-donate-button.png" alt="Tea donate" width="320" height="108"></a>
