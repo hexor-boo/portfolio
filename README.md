@@ -1,7 +1,7 @@
 # portfolio
 
-<table width="441">
- <th colspan="2" align="left">
+<table>
+ <th colspan="2" align="left" width="441">
   <img src="/image/skills.png" width="135" height="20">
  </th>
  <tr>
@@ -26,8 +26,8 @@
  </tr>
 <table>
 
-<table width="441">
- <th colspan="2" align="left">
+<table>
+ <th colspan="2" align="left" width="441">
   <img src="/image/services.png" width="181" height="20">
  </th>
  <tr>
@@ -40,7 +40,7 @@
  </tr>
  <tr>
   <td valign="center"><img src="/image/3.png" width="20" height="20"></td>
-  <td valign="center" width="441">Android-programs development in Delphi 10.4.1 via FireMonkey <i>(service temporary unavailable)</i></td>
+  <td valign="center">Android-programs development in Delphi 10.4.1 via FireMonkey <i>(service temporary unavailable)</i></td>
  </tr>
  <tr>
   <td valign="center"><img src="/image/4.png" width="20" height="20"></td>
@@ -48,8 +48,8 @@
  </tr>
 <table>
 
-<table width="441">
- <th colspan="2" align="left">
+<table>
+ <th colspan="2" align="left" width="441">
   <img src="/image/other-stuff.png" width="233" height="20">
  </th>
  <tr>
