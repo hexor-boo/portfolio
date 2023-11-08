@@ -68,6 +68,13 @@
  </tr>
  <tr>
   <td colspan="2" align="center">
+   <a href="https://kwork.com/ref/10283917" target="_blank">
+    <img src="image/kwork-button.png" alt="Visit best freelance matket" width="320" height="108">
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" align="center">
    <a href="https://yookassa.ru" target="_blank">
     <img src="image/tea-donate-button.png" alt="Tea donate" width="320" height="108">
    </a>
