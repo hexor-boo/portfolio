@@ -2,7 +2,7 @@
 
 <table>
  <th colspan="2" align="left">
-  <img src="/image/skills.png" width="135" height="20">
+  &nbsp;<img src="/image/skills.png" width="135" height="20">
  </th>
  <tr>
   <td valign="center"><img src="/image/1.png" width="20" height="20"></td>
