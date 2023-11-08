@@ -84,6 +84,10 @@
   <td valign="center" width="441">CDDC v1.0</td>
  </tr>
  <tr>
+  <td valign="center"><img src="/image/4.png" width="20" height="20"></td>
+  <td valign="center" width="441">CorrCode v1.0</td>
+ </tr>
+ <tr>
   <td valign="center"><img src="/image/5.png" width="20" height="20"></td>
   <td valign="center" width="441">CoMatrix v3.1.0a</td>
  </tr>
