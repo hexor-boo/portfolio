@@ -22,7 +22,7 @@
  </tr>
  <tr>
   <td valign="center"><img src="/image/5.png" width="20" height="20"></td>
-  <td valign="center" width="441">Perl (only analazying and editing foreign code)</td>
+  <td valign="center" width="441">Perl (only analayzing and editing foreign code)</td>
  </tr>
 <table>
 
