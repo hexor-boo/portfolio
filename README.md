@@ -104,7 +104,7 @@
  </tr>
  <tr>
   <td colspan="2" align="center">
-   <a href="https://yookassa.ru" target="_blank">
+   <a href="https://pay.mysbertips.ru/55231390" target="_blank">
     <img src="image/tea-donate-button.png" alt="Tea donate" width="320" height="108">
    </a>
   </td>
