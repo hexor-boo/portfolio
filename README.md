@@ -67,5 +67,4 @@
   <td valign="center" width="441">Russian speech audio transcribation (very expensive)</td>
  </tr>
 </table>
-<br>
 <a href="https://yookassa.ru" target="_blank"><img src="image/tea-donate-button.png" alt="Tea donate" width="320" height="108"></a>
