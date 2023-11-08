@@ -47,3 +47,25 @@
   <td valign="center">Web-sites development in Tilda</td>
  </tr>
 <table>
+
+<table>
+ <th colspan="2" align="left">
+  <img src="/image/other-stuff.png" width="181" height="20">
+ </th>
+ <tr>
+  <td valign="center"><img src="/image/1.png" width="20" height="20"></td>
+  <td valign="center">Creating CHM-help and PDF-instructions files (expensive)</td>
+ </tr>
+ <tr>
+  <td valign="center"><img src="/image/2.png" width="20" height="20"></td>
+  <td valign="center">Simple banners design</td>
+ </tr>
+ <tr>
+  <td valign="center"><img src="/image/3.png" width="20" height="20"></td>
+  <td valign="center">Remove background from photo</i></td>
+ </tr>
+ <tr>
+  <td valign="center"><img src="/image/4.png" width="20" height="20"></td>
+  <td valign="center">Russian speech audio transcribation (very expensive)</td>
+ </tr>
+<table>
