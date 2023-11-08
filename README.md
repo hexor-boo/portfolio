@@ -66,6 +66,15 @@
   <td valign="center"><img src="/image/4.png" width="20" height="20"></td>
   <td valign="center" width="441">Russian speech audio transcribation (very expensive)</td>
  </tr>
+</table>
+<table>
+ <th colspan="2" align="left">
+  <img src="/image/my-applications.png" width="325" height="20">
+ </th>
+ <tr>
+  <td valign="center"><img src="/image/1.png" width="20" height="20"></td>
+  <td valign="center" width="441">Repgen v1.0</td>
+ </tr>
  <tr>
   <td colspan="2" align="center">
    <a href="https://kwork.com/ref/10283917" target="_blank">
