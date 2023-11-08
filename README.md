@@ -104,6 +104,13 @@
  </tr>
  <tr>
   <td colspan="2" align="center">
+   <a href="https://t.me/bellport" target="_blank">
+    <img src="image/bell-port-button.png" alt="Visit Bell-Port Software telegram channel" width="320" height="108">
+   </a>
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2" align="center">
    <a href="https://pay.mysbertips.ru/55231390" target="_blank">
     <img src="image/tea-donate-button.png" alt="Tea donate" width="320" height="108">
    </a>
