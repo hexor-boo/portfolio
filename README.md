@@ -40,7 +40,7 @@
  </tr>
  <tr>
   <td valign="center"><img src="/image/3.png" width="20" height="20"></td>
-  <td valign="center">Android-programs development in Delphi 10.4.1 via FireMonkey <i>(service temporary unavailable)</i></td>
+  <td valign="center" width="441">Android-programs development in Delphi 10.4.1 via FireMonkey <i>(service temporary unavailable)</i></td>
  </tr>
  <tr>
   <td valign="center"><img src="/image/4.png" width="20" height="20"></td>
