@@ -66,5 +66,7 @@
   <td valign="center"><img src="/image/4.png" width="20" height="20"></td>
   <td valign="center" width="441">Russian speech audio transcribation (very expensive)</td>
  </tr>
+ <tr colspan="2" align="center">
+  <td><a href="https://yookassa.ru" target="_blank"><img src="image/tea-donate-button.png" alt="Tea donate" width="320" height="108"></a></td>
+ </tr>
 </table>
-<a href="https://yookassa.ru" target="_blank"><img src="image/tea-donate-button.png" alt="Tea donate" width="320" height="108"></a>
