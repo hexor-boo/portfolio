@@ -1,6 +1,6 @@
 # portfolio
 
-<table>
+<table width="441">
  <th colspan="2" align="left">
   <img src="/image/skills.png" width="135" height="20">
  </th>
@@ -26,7 +26,7 @@
  </tr>
 <table>
 
-<table>
+<table width="441">
  <th colspan="2" align="left">
   <img src="/image/services.png" width="181" height="20">
  </th>
@@ -48,9 +48,9 @@
  </tr>
 <table>
 
-<table>
+<table width="441">
  <th colspan="2" align="left">
-  <img src="/image/other-stuff.png" width="181" height="20">
+  <img src="/image/other-stuff.png" width="233" height="20">
  </th>
  <tr>
   <td valign="center"><img src="/image/1.png" width="20" height="20"></td>
