@@ -73,27 +73,27 @@
  </th>
  <tr>
   <td valign="center"><img src="/image/1.png" width="20" height="20"></td>
-  <td valign="center" width="441"><a href="https://bell-port.software/prog.php?id=1">Repgen v1.2</a></td>
+  <td valign="center" width="441"><a href="https://bell-port.ru/prog.php?id=1">Repgen v1.2</a></td>
  </tr>
  <tr>
   <td valign="center"><img src="/image/2.png" width="20" height="20"></td>
-  <td valign="center" width="441"><a href="https://bell-port.software/prog.php?id=2">ch_4</a></td>
+  <td valign="center" width="441"><a href="https://bell-port.ru/prog.php?id=2">ch_4</a></td>
  </tr>
  <tr>
   <td valign="center"><img src="/image/3.png" width="20" height="20"></td>
-  <td valign="center" width="441"><a href="https://bell-port.software/prog.php?id=3">CDDC v1.0</a></td>
+  <td valign="center" width="441"><a href="https://bell-port.ru/prog.php?id=3">CDDC v1.0</a></td>
  </tr>
  <tr>
   <td valign="center"><img src="/image/4.png" width="20" height="20"></td>
-  <td valign="center" width="441"><a href="https://bell-port.software/prog.php?id=4">CorrCode v1.0</a></td>
+  <td valign="center" width="441"><a href="https://bell-port.ru/prog.php?id=4">CorrCode v1.0</a></td>
  </tr>
  <tr>
   <td valign="center"><img src="/image/5.png" width="20" height="20"></td>
-  <td valign="center" width="441"><a href="https://bell-port.software/prog.php?id=5">CoMatrix v3.1.0a</a></td>
+  <td valign="center" width="441"><a href="https://bell-port.ru/prog.php?id=5">CoMatrix v3.1.0a</a></td>
  </tr>
  <tr>
   <td valign="center"><img src="/image/6.png" width="20" height="20"></td>
-  <td valign="center" width="441"><a href="https://bell-port.software/prog.php?id=6">winPath v1.0b</a></td>
+  <td valign="center" width="441"><a href="https://bell-port.ru/prog.php?id=6">winPath v1.0b</a></td>
  </tr>
  <tr>
   <td colspan="2" align="center">
